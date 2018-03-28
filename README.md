@@ -9,7 +9,7 @@ Simply add your chores in the app and let indecision tell you what to do next! Y
 > git clone https://github.com/Christriane/react-indecision-app.git
 > cd react-indecision-app
 > yarn run dev-server
-ENJOY
+> ENJOY
 ```
 
 ### Tech used:
